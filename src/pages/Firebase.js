@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC5-DYR514IP7BxPjMWiZuD43-95_85SDw",
+  apiKey: "",
   authDomain: "spendsense-d25ba.firebaseapp.com",
   projectId: "spendsense-d25ba",
   storageBucket: "spendsense-d25ba.firebasestorage.app",
